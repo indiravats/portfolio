@@ -34,7 +34,7 @@ I wrote a Python script that automated the process of model evaluation, includin
 (5) import .bps file (true structure)
 
 (6) write an evaluation script which computes the true positive, false positive, true negative and false nagative as well as outputs a confusion matrix
-    
+
 &nbsp; \
 *Some of my key findings and learnings:*
 
