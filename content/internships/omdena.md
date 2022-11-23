@@ -24,7 +24,7 @@ The steps involved in this project were:
 &nbsp; \
 (1) Data Collection – using SAS Planet, Google Earth Map
 
-(2) Data Preprocessing – Annotating the images with labels using LabelBox (for type: pylons, substations, power stations; blurry: high, medium, low; split: cropped, fully visible), splitting the data into train
+(2) Data Preprocessing – Annotating the images with labels using LabelBox (for type: pylons, substations, power stations; blur: high, medium, low; split: cropped, fully visible), splitting the data into train
 and validation datasets
 
 (3) Modeling – used YOLOV5X for training; models such as YOLOv5(S/L/X) and YOLTv5 were trained using the collected data on Google Colab GPU
