@@ -1,5 +1,5 @@
 ---
-title: "Summer Intern"
+title: "Intern"
 description: "Indian Council of Medical Research (National Institute for Implementation Research on Non-Communicable Diseases)"
 dateString: March 2020 - Aug 2020
 draft: false

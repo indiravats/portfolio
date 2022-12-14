@@ -12,7 +12,7 @@ weight: 304
 ![Certificate](/internships/drdo/drdo.png)
 
 
-Defence Research and Development Organisation is a premier R&D agency under the Government of India. I was selected as a Winter Intern for 3 months in the Solid State Physics Lab to work on one of their ongoing projects. The project I worked on was for inventory management and handling of optoelectronic devices using Machine Learning methods, which would ultimately be used to categorize devices from a live feed. 
+Defence Research and Development Organisation is a premier R&D agency under the Government of India. I was selected as a Winter Intern for 2 months in the Solid State Physics Lab to work on one of their ongoing projects. The project I worked on was for inventory management and handling of optoelectronic devices using Machine Learning methods, which would ultimately be used to categorize devices from a live feed. 
 
 On a large scale industry level it becomes important to distinguish between such devices when there exist many different types of them. This could be done with the human eye but a faster, more reliable and efficient method would be to use a computer that can easily distinguish between images.
 
