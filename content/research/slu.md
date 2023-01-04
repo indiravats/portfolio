@@ -1,7 +1,7 @@
 ---
 title: "Research Intern"
 description: "Saint Louis University, Missouri, United States of America"
-dateString: May 2022 - Ongoing
+dateString: May 2022 - Dec 2022
 draft: false
 tags: ["Research", "Machine Learning", "Deep Learning", "Computational Biology"]
 showToc: false
