@@ -1,7 +1,7 @@
 ---
 title: "Research Intern"
 description: "Dalhousie University, Halifax, Canada"
-dateString: Apr 2022 - Ongoing
+dateString: Apr 2022 - May 2023
 draft: false
 tags: ["Research", "Software Engineering", "Machine Learning"]
 showToc: false
@@ -35,7 +35,7 @@ The time I spent here has been dedicated to working on two projects:
   
     &nbsp; \
     &nbsp; 
-- **Trend analysis of popular Java repositories for analysis of Code Smell Lifetime & Code Productivity**
+- **Trend analysis of popular Java repositories for analysis of Code Smell Lifetime**
     &nbsp; \
      🔗 [GitHub Repository](https://github.com/indiravats/download_repo)
     &nbsp; \
@@ -48,9 +48,9 @@ The time I spent here has been dedicated to working on two projects:
 
     (2) Wrote a script that creates a folder structure wherein there is a folder created for each repository and then subfolders for every commit in that repository. 
 
-    (3) Wrote a script that runs DesigniteJava for every commit of every repository and stores results in the designated folders. 
+    (3) Wrote a script that runs DesigniteJava for every commit of every repository and stores results in the designated folders, and extended the functionality of DesigniteJava to include more smells. 
 
-    (4) Further, we plan to analyze these results and define the lifetime of a code smell since a project's inception to its completion, as well as define productivity metrics. 
+    (4) Further, we plan to analyze these results and define the lifetime of a code smell since a project's inception to its completion. 
     &nbsp; \
     &nbsp; \
     *Some of my key findings and learnings:*
