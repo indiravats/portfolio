@@ -11,7 +11,7 @@ weight: 302
 ## Description
 **Guide:** **Dr. Jie Hou** (Assistant Professor, Dept. of Computer Science, Saint Louis University)
 
-I have worked under Dr. Hou for over 7 months, and in this time, I got to explore applications of AI that I hadn't previously known existed. In particular, our work has been concentrated on the prediction of the structure of RNA molecules. Mainly, I was involved in a project that aimed to predict the secondary structure of RNA molecules using Deep Learning. I also practiced the construction of 3D RNA structures from secondary structures using Assemble2 with UCSF Chimera. 
+I worked under Dr. Hou for over 7 months, and in that time, I got to explore applications of AI that I hadn't previously known existed. In particular, our work had been concentrated on the prediction of the structure of RNA molecules. Mainly, I was involved in a project that aimed to predict the secondary structure of RNA molecules using Deep Learning. I also practiced the construction of 3D RNA structures from secondary structures using Assemble2 with UCSF Chimera. 
 &nbsp; 
 
 **RNA secondary structure prediction using a graph neural network approach**

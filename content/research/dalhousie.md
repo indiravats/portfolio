@@ -11,13 +11,13 @@ weight: 301
 ### Description
 **Guide:** **Dr. Tushar Sharma** (Assistant Professor, Faculty of Computer Science, Dalhousie University)
 
-I have been working at the SMART Lab led by Dr. Tushar Sharma (Assistant Professor) for nearly 8 months. My experience here has helped me gain an immersive research experience and bolstered my theoretical concepts and fundamentals in Machine Learning.  
+I worked at the SMART Lab led by Dr. Tushar Sharma (Assistant Professor) for more than a year. My experience here has helped me gain an immersive research experience and bolstered my theoretical concepts and fundamentals in Machine Learning.  
 
-The time I spent here has been dedicated to working on two projects:
+The time I spent here had been dedicated to working on two projects:
 
-- **Machine Learning Techniques for Source Code Analysis**
+- **Machine Learning Techniques Applied to Source Code**
     &nbsp; \
-     🔗 [Preprint](https://arxiv.org/pdf/2110.09610.pdf) [currently under review at *ACM Transactions on Software Engineering and Methodology*]
+     🔗 (https://www.sciencedirect.com/science/article/pii/S0164121223003291) [published at *Journal of Systems and Software (Open Science)*]
     &nbsp; \
     &nbsp; 
 
@@ -48,11 +48,10 @@ The time I spent here has been dedicated to working on two projects:
 
     (2) Wrote a script that creates a folder structure wherein there is a folder created for each repository and then subfolders for every commit in that repository. 
 
-    (3) Wrote a script that runs DesigniteJava for every commit of every repository and stores results in the designated folders, and extended the functionality of DesigniteJava to include more smells. 
+    (3) Wrote a script that runs DesigniteJava for every commit of every repository and stores results in the designated folders, and extended the functionality of DesigniteJava to include Test and Testability smells. 
 
-    (4) Further, we plan to analyze these results and define the lifetime of a code smell since a project's inception to its completion. 
     &nbsp; \
     &nbsp; \
     *Some of my key findings and learnings:*
 
-    This project is teaching me a lot about dealing with large amounts of data and the best ways to process it. It is also helping me develop inquisitiveness, formulate ideas of my own and find out how to implement them. I have gained more proficiency on using Git and Linux commands through this project. 
+    This project taught me a lot about dealing with large amounts of data and the best ways to process it. It also helped me develop inquisitiveness, formulate ideas of my own and find out how to implement them. I also gained more proficiency on using Git and Linux commands through this project. 
