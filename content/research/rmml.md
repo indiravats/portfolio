@@ -11,7 +11,7 @@ weight: 301
 ### Description
 **Guide:** **Dr. Ping-Lang Yen** (Professor, Department of Biomechatronics Engineering, National Taiwan University)
 
-I interned with the Robotics and Medical Mechatronics Laboratory in National Taiwan University through the Taiwan Education Exchange Program (TEEP) for a period of three months. In this time, I conducted a feasibility study to explore the potential of GPT-4 in robot-assisted surgical path planning. I leveraged GPT-4 and 3D Slicer to develop a tool that assists doctors in interactively planning multidimensional needle paths for tumor ablation.  This project involved not only the creation of the tool itself, but also the proposal of a novel workflow methodology for surgical path planning.  By integrating GPT-4 with prompt engineering and 3D Slicer for visualization, I developed a customized solution with the potential to significantly improve surgical efficiency.
+I interned with the Robotics and Medical Mechatronics Laboratory in National Taiwan University through the Taiwan Education Exchange Program (TEEP) for a period of three months. In this time, I proposed a novel workflow mechanism for robot-assisted surgical path planning. I leveraged GPT-4 and 3D Slicer to develop a tool that assists doctors in interactively planning multidimensional needle paths for tumor ablation. By integrating GPT-4 with 3D Slicer for visualization, I developed a customized solution with the potential to significantly improve surgical efficiency.
 
 &nbsp; 
 
